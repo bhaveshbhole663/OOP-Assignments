@@ -1,3 +1,7 @@
+// A bookstore is introducing a digital inventory system to organize its collection of books. Design a Book class
+// that stores essential book details and allows the staff to record and display the information whenever required.
+
+
 #include <iostream>
 #include <string>
 using namespace std;
